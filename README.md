@@ -1,2 +1,2 @@
 # Periodic-Table
-This project displays basic properties of the element symole provided by the user.
+This project displays basic properties of the element symoble provided by the user.
